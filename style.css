@@ -6,7 +6,7 @@ body {
 	font-style: normal;
 	font-size: 11pt;
 	font-family: "Times New Roman";
-	margin: 0px 0px 0px 1px;
+	margin: 0px 0px 0px 5px;
 	display: grid;
 	min-height: 100dvh;
 	grid-template-rows: auto 1fr auto;
